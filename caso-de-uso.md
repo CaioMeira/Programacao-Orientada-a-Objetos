@@ -7,6 +7,6 @@ ou seja, não comprará mais cartas.
 
 O objetivo é que a soma das cartas seja o mais próximo possível de 21, porém caso a soma passe de 21, o JOGADOR instântaneamente perde.
 
-Em relação as apostas, há de se pensar em duas coisas, Valor e Modo e aposta.
+Em relação as apostas, há de se pensar em duas coisas, Valor e Modo de aposta.
 Se o JOGADOR será capaz de apostar entre cada compra de carta, ou apenas no inicio do jogo.
 Se o valor de aposta será fixo ou variável.
