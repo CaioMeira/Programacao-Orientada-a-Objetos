@@ -14,3 +14,11 @@ O JOGADOR vence a partida quando o DEALER chegar em 0 de gold.
 
 O JOGADOR perde a partida quando o JOGADOR chegar em 0 de gold. 
 
+Com excessão das cartas: J, Q, K e A.
+
+Todas as cartas possuem valor associado ao seu número (2 ~ 10)
+
+As cartas J, Q, K valem 10.
+
+Os Áses podem valer 1 ou 10, sempre priorizando a situação que beneficia mais seu portador.
+
