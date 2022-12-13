@@ -20,5 +20,5 @@ Todas as cartas possuem valor associado ao seu número (2 ~ 10)
 
 As cartas J, Q, K valem 10.
 
-Os Áses podem valer 1 ou 10, sempre priorizando a situação que beneficia mais seu portador.
+Os Áses podem valer 1 ou 11, sempre priorizando a situação que beneficia mais seu portador.
 
